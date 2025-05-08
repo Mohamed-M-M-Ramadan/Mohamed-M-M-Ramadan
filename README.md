@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Unreal<br>👯 I’m looking to collaborate on Game development<br>🤝 I’m looking for help with Unreal<br>🌱 I’m currently learning Game development<br>💬 Ask me about Game Maker<br>⚡ Fun fact FREE FREE PALESTINE 
+🔭 I’m currently working on nothing in partcular<br>👯 I’m looking to collaborate on Game development<br>🤝 I’m looking for help with Java<br>🌱 I’m currently learning Nothing<br>💬 Ask me about Game Maker<br>⚡ Fun fact FREE PALESTINE 
 
 
 # 💻 Tech Stack:
